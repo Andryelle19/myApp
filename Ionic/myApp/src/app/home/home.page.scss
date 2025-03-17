@@ -17,11 +17,23 @@
   font-size: 16px;
   line-height: 22px;
 
-  color: #8c8c8c;
+  color: #000000;
 
   margin: 0;
 }
 
 #container a {
   text-decoration: none;
+}
+
+#titulo{
+  color: rgb(17, 113, 143);
+}
+
+ion-card {
+  background-color: #6ad5ff;
+}
+
+.sub{
+  color:rgb(63, 138, 161)
 }
